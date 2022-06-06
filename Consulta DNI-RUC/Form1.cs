@@ -132,7 +132,8 @@ namespace Consulta_DNI_RUC
                 MessageBox.Show("RUC no existe");
 
                 txb_dni.Text = "";
-                txb_dni.Focus();
+                txb_ruc.Focus();
+                lcampos();
             }
 
 
