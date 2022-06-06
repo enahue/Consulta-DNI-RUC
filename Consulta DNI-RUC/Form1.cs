@@ -57,13 +57,14 @@ namespace Consulta_DNI_RUC
             if (comboBox1.Text == "DNI")
             {
 
-                Size = new Size(625, 153);
+                Size = new Size(625, 156);
                 lbl_numdoc.Text = "DNI";
                 txb_dni.Text = "";
                 txb_rdnirz.Text = "";
                 txb_ruc.Text = "";
                 txb_ruc.Visible = false;
                 txb_dni.Visible = true;
+                txb_dni.Focus();
                 lcampos();
                
 
@@ -79,6 +80,7 @@ namespace Consulta_DNI_RUC
                 txb_ruc.Text = "";
                 txb_ruc.Visible = true;
                 txb_dni.Visible = false;
+                txb_ruc.Focus();
                 lcampos();
 
             }
