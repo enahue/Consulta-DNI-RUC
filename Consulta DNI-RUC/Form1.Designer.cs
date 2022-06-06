@@ -72,7 +72,7 @@
             // 
             // txb_dni
             // 
-            this.txb_dni.Location = new System.Drawing.Point(113, 65);
+            this.txb_dni.Location = new System.Drawing.Point(128, 65);
             this.txb_dni.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.txb_dni.MaxLength = 8;
             this.txb_dni.Name = "txb_dni";
@@ -82,7 +82,7 @@
             // 
             // txb_rdnirz
             // 
-            this.txb_rdnirz.Location = new System.Drawing.Point(113, 91);
+            this.txb_rdnirz.Location = new System.Drawing.Point(128, 91);
             this.txb_rdnirz.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.txb_rdnirz.Name = "txb_rdnirz";
             this.txb_rdnirz.ReadOnly = true;
@@ -94,7 +94,7 @@
             this.lbl_numdoc.AutoSize = true;
             this.lbl_numdoc.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_numdoc.ForeColor = System.Drawing.Color.SlateGray;
-            this.lbl_numdoc.Location = new System.Drawing.Point(72, 72);
+            this.lbl_numdoc.Location = new System.Drawing.Point(89, 72);
             this.lbl_numdoc.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl_numdoc.Name = "lbl_numdoc";
             this.lbl_numdoc.Size = new System.Drawing.Size(29, 13);
@@ -106,7 +106,7 @@
             this.lbl_nameap.AutoSize = true;
             this.lbl_nameap.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_nameap.ForeColor = System.Drawing.Color.SlateGray;
-            this.lbl_nameap.Location = new System.Drawing.Point(5, 98);
+            this.lbl_nameap.Location = new System.Drawing.Point(12, 98);
             this.lbl_nameap.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lbl_nameap.Name = "lbl_nameap";
             this.lbl_nameap.Size = new System.Drawing.Size(106, 13);
@@ -118,7 +118,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.SlateGray;
-            this.label1.Location = new System.Drawing.Point(-1, 124);
+            this.label1.Location = new System.Drawing.Point(6, 124);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(112, 13);
@@ -127,7 +127,7 @@
             // 
             // txb_nroruc
             // 
-            this.txb_nroruc.Location = new System.Drawing.Point(113, 117);
+            this.txb_nroruc.Location = new System.Drawing.Point(128, 117);
             this.txb_nroruc.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.txb_nroruc.Name = "txb_nroruc";
             this.txb_nroruc.ReadOnly = true;
@@ -136,7 +136,7 @@
             // 
             // txb_estado
             // 
-            this.txb_estado.Location = new System.Drawing.Point(113, 143);
+            this.txb_estado.Location = new System.Drawing.Point(128, 143);
             this.txb_estado.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.txb_estado.Name = "txb_estado";
             this.txb_estado.ReadOnly = true;
@@ -148,7 +148,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.SlateGray;
-            this.label2.Location = new System.Drawing.Point(47, 150);
+            this.label2.Location = new System.Drawing.Point(61, 150);
             this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(57, 13);
@@ -157,7 +157,7 @@
             // 
             // txb_condicion
             // 
-            this.txb_condicion.Location = new System.Drawing.Point(113, 169);
+            this.txb_condicion.Location = new System.Drawing.Point(128, 169);
             this.txb_condicion.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.txb_condicion.Name = "txb_condicion";
             this.txb_condicion.ReadOnly = true;
@@ -169,7 +169,7 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.SlateGray;
-            this.label3.Location = new System.Drawing.Point(31, 176);
+            this.label3.Location = new System.Drawing.Point(42, 176);
             this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(76, 13);
@@ -178,7 +178,7 @@
             // 
             // txb_direccion
             // 
-            this.txb_direccion.Location = new System.Drawing.Point(113, 195);
+            this.txb_direccion.Location = new System.Drawing.Point(128, 195);
             this.txb_direccion.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.txb_direccion.Name = "txb_direccion";
             this.txb_direccion.ReadOnly = true;
@@ -190,7 +190,7 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.SlateGray;
-            this.label4.Location = new System.Drawing.Point(32, 202);
+            this.label4.Location = new System.Drawing.Point(43, 202);
             this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(75, 13);
@@ -199,7 +199,7 @@
             // 
             // txb_ruc
             // 
-            this.txb_ruc.Location = new System.Drawing.Point(113, 65);
+            this.txb_ruc.Location = new System.Drawing.Point(128, 65);
             this.txb_ruc.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.txb_ruc.MaxLength = 11;
             this.txb_ruc.Name = "txb_ruc";
@@ -209,7 +209,7 @@
             // 
             // txb_ubigeo
             // 
-            this.txb_ubigeo.Location = new System.Drawing.Point(113, 221);
+            this.txb_ubigeo.Location = new System.Drawing.Point(128, 221);
             this.txb_ubigeo.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.txb_ubigeo.Name = "txb_ubigeo";
             this.txb_ubigeo.ReadOnly = true;
@@ -221,7 +221,7 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.SlateGray;
-            this.label5.Location = new System.Drawing.Point(50, 228);
+            this.label5.Location = new System.Drawing.Point(64, 228);
             this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(54, 13);
@@ -230,7 +230,7 @@
             // 
             // txb_distrito
             // 
-            this.txb_distrito.Location = new System.Drawing.Point(113, 247);
+            this.txb_distrito.Location = new System.Drawing.Point(128, 247);
             this.txb_distrito.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.txb_distrito.Name = "txb_distrito";
             this.txb_distrito.ReadOnly = true;
@@ -242,7 +242,7 @@
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.SlateGray;
-            this.label6.Location = new System.Drawing.Point(40, 254);
+            this.label6.Location = new System.Drawing.Point(52, 254);
             this.label6.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(66, 13);
@@ -251,7 +251,7 @@
             // 
             // txb_provincia
             // 
-            this.txb_provincia.Location = new System.Drawing.Point(113, 273);
+            this.txb_provincia.Location = new System.Drawing.Point(128, 273);
             this.txb_provincia.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.txb_provincia.Name = "txb_provincia";
             this.txb_provincia.ReadOnly = true;
@@ -263,7 +263,7 @@
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.SlateGray;
-            this.label7.Location = new System.Drawing.Point(33, 280);
+            this.label7.Location = new System.Drawing.Point(44, 280);
             this.label7.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(74, 13);
@@ -272,7 +272,7 @@
             // 
             // txb_departamento
             // 
-            this.txb_departamento.Location = new System.Drawing.Point(113, 299);
+            this.txb_departamento.Location = new System.Drawing.Point(128, 299);
             this.txb_departamento.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.txb_departamento.Name = "txb_departamento";
             this.txb_departamento.ReadOnly = true;
@@ -284,7 +284,7 @@
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.SlateGray;
-            this.label8.Location = new System.Drawing.Point(1, 306);
+            this.label8.Location = new System.Drawing.Point(9, 306);
             this.label8.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(109, 13);
