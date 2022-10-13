@@ -99,9 +99,9 @@ namespace Consulta_DNI_RUC
                 txb_rdnirz.Text = respuesta.nombre.ToString();
 
             }
-            catch
+            catch(Exception ex)
             {
-                MessageBox.Show("DNI no existe");
+                MessageBox.Show(ex.Message);
 
                 txb_dni.Text = "";
                 txb_dni.Focus();
@@ -129,9 +129,9 @@ namespace Consulta_DNI_RUC
 
 
             }
-            catch
+            catch(Exception e)
             {
-                MessageBox.Show("RUC no existe");
+                MessageBox.Show(e.Message);
 
                 txb_dni.Text = "";
                 txb_ruc.Focus();
