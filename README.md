@@ -3,7 +3,6 @@ Aplicativo para consultas de DNI y RUC para Windows usando C# y APIREST.
 
 ## Requisitos:
 #### Windows 8 o posterior.
-#### NET framework.
 
 ## Consulta DNI
 ![imagen](https://user-images.githubusercontent.com/36392461/187695083-5cad736d-5524-4303-8841-144c9cff7396.png)
